@@ -1,4 +1,4 @@
-# mypipe
+## mypipe
 
 You have to recode a small pipe-like program, working like this:
 
